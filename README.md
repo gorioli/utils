@@ -5,18 +5,29 @@
 
 ###### Import and export 
 __imp__→	imports entire module ```import fs from 'fs'```
+
 __imd__→	imports only a portion of the module using destructing ```import {rename} from 'fs';```
+
 
 ###### Various methods
 fre→	forEach loop in ES6 syntax array.forEach(currentItem => {})
+
 fof→	for ... of loop for(let item of object) {}
+
 fin→	for ... in loop for(let item in object) {}
+
 afn→	creates an anonymous function (params) => {}
+
 nfn→	creates a named function const add = (params) => {}
+
 dob→	desctucting object syntax const {rename} = fs
+
 dar→	desctucting array syntax const [first, second] = [1,2]
+
 sti→	set interval helper method setInterval(() => {});
+
 sto→	set timeout helper method setTimeout(() => {});
+
 
 ###### Class helpers
 con→	adds default constructor in the class constructor() {}
