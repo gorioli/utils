@@ -14,14 +14,14 @@ __fof__→	for ... of loop ```for(let item of object) {}```
 __fin__→	for ... in loop ```for(let item in object) {}```
 __afn__→	creates an anonymous ```function (params) => {}```
 __nfn__→	creates a named function ```const add = (params) => {}```
-__dob__→	desctucting object syntax ```const {rename} = fs```
+__dob__→	desctucting object syntax ```const {rename} = fs```              
 __dar__→	desctucting array syntax ```const [first, second] = [1,2]```
 __sti__→	set interval helper method ```setInterval(() => {});```
 __sto__→	set timeout helper method ```setTimeout(() => {});```
 
 
 ###### Class helpers
-__con__→	adds default constructor in the class ```constructor() {}```           
+__con__→	adds default constructor in the class ```constructor() {}```
 __met__→	creates a method inside a class ```add() {}```
 __pge__→	creates a getter property ```get propertyName() {return value;}```
 __pse__→	creates a setter property ```set propertyName(value) {}```
