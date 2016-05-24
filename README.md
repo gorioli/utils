@@ -21,7 +21,7 @@ __sto__→	set timeout helper method ```setTimeout(() => {});```
 
 
 ###### Class helpers
-__con__→	adds default constructor in the class ```constructor() {}```
+__con__→	adds default constructor in the class ```constructor() {}```           
 __met__→	creates a method inside a class ```add() {}```
 __pge__→	creates a getter property ```get propertyName() {return value;}```
 __pse__→	creates a setter property ```set propertyName(value) {}```
