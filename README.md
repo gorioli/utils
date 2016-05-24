@@ -21,19 +21,19 @@ __sto__→	set timeout helper method ```setTimeout(() => {});```
 
 
 ###### Class helpers
-__con__→	adds default constructor in the class ```constructor() {}```
-__met__→	creates a method inside a class ```add() {}```
-__pge__→	creates a getter property ```get propertyName() {return value;}```
-__pse__→	creates a setter property ```set propertyName(value) {}```
+__con__→	adds default constructor in the class ```constructor() {}```   
+__met__→	creates a method inside a class ```add() {}```    
+__pge__→	creates a getter property ```get propertyName() {return value;}```    
+__pse__→	creates a setter property ```set propertyName(value) {}```    
 
 ###### Console methods
-__cer__→	console error ```console.error(object)```
-__cgr__→	console group ```console.group(label)```
-__cas__→	console allert method ```console.assert(expression, object)```
-__cge__→	console groupEnd ```console.groupEnd()```
-__cco__→	console count ```console.count(label)```
-__ccl__→	console clear ```console.clear()```
-__cdi__→	console dir ```console.dir```
-__clg__→	console log ```console.log(object)```
-__ctr__→	console trace ```console.trace(object)```
-__cwa__→	console warn ```console.warn```
+__cer__→	console error ```console.error(object)```    
+__cgr__→	console group ```console.group(label)```    
+__cas__→	console allert method ```console.assert(expression, object)```    
+__cge__→	console groupEnd ```console.groupEnd()```    
+__cco__→	console count ```console.count(label)```    
+__ccl__→	console clear ```console.clear()```    
+__cdi__→	console dir ```console.dir```    
+__clg__→	console log ```console.log(object)```    
+__ctr__→	console trace ```console.trace(object)```    
+__cwa__→	console warn ```console.warn```    
