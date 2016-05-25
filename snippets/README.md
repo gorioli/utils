@@ -4,8 +4,10 @@
  - [REACT TOOLBOX SNIPPETS](https://marketplace.visualstudio.com/items?itemName=alechp.react-toolbox-snippets)
 
 ###### Import and export
-__imp__→	imports entire module ```import fs from 'fs'```
-__imd__→	imports only a portion of the module using destructing ```import {rename} from 'fs';```
+|  Temlate  | description   | syntax|
+| --------- | ------------  | ----- |
+|__imp__ | imports entire module |```import fs from 'fs'``` |
+|__imd__ | imports only a portion of the module using destructing |```import {rename} from 'fs';``` |
 
 
 ###### Various methods
