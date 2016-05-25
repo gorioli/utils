@@ -21,15 +21,6 @@ __imd__→	imports only a portion of the module using destructing ```import {ren
 | __sti__ | set interval helper method | ```setInterval(() => {});``` |
 | __sto__ | set timeout helper method | ```setTimeout(() => {});```  |
 
-|__fre__ | forEach loop in ES6 syntax | ```array.forEach(currentItem => {})``` |
-|__fof__ | for ... of loop | ```for(let item of object) {}``` |
-|__fin__ | for ... in loop | ```for(let item in object) {}``` |
-|__nfn__ | creates a named function | ```const add = (params) => {}``` |
-|__dob__ | desctucting object syntax | ```const {rename} = fs``` |
-|__dar__ | desctucting array syntax | ```const [first, second] = [1,2]``` |
-|__sti__ | set interval helper method | ```setInterval(() => {});``` |
-|__sto__ | set timeout helper method | ```setTimeout(() => {});``` |
-
 
 ###### Class helpers
 |  Temlate  | description   | syntax|
